@@ -59,6 +59,7 @@ We developed the project in 4 sprints of one week:
 **Back :**
 - Node.js
 - Sqitch
+- PostgreSQL
 - Sequelize
 - Eslint
 - Express
@@ -66,6 +67,7 @@ We developed the project in 4 sprints of one week:
 - JWT
 - CORS
 - JS Doc
+- Swagger
 - PG
 - DOTENV
 
